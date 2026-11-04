@@ -197,6 +197,3 @@ Execute notebooks `01` through `09` in numerical order to reproduce all data pre
 
 ---
 
-## License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
