@@ -147,11 +147,6 @@ AAT_Project/
 │   ├── forecasts/                       <- Holdout test point and interval predictions (CSV)
 │   └── metrics/                         <- Quantitative model metrics & statistical summaries
 │
-├── report/                              <- Research Documentation & Literature Review
-│   ├── final_research_report.docx       <- Complete research report in Word (.docx)
-│   ├── final_research_report.md         <- Comprehensive technical report (Markdown)
-│   └── literature_review.csv            <- Literature review matrix (10 verified papers)
-│
 ├── requirements.txt                     <- Project dependencies
 └── README.md                            <- Project documentation
 ```
