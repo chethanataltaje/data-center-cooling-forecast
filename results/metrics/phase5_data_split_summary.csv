@@ -1,0 +1,5 @@
+Partition,Observations,Percentage,Start Timestamp,End Timestamp
+Training,6132,70.0%,2024-05-01 00:00:00,2025-01-11 11:00:00
+Validation,1314,15.0%,2025-01-11 12:00:00,2025-03-07 05:00:00
+Test (Holdout),1314,15.0%,2025-03-07 06:00:00,2025-04-30 23:00:00
+Full Series,8760,100.0%,2024-05-01 00:00:00,2025-04-30 23:00:00

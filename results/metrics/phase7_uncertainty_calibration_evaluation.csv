@@ -1,0 +1,13 @@
+Model,Regime Scope,Nominal (%),PICP (%),MPIW (kW)
+Uncalibrated SARIMAX-GARCH,Overall,80.0,82.19,1.644
+Calibrated SARIMAX-GARCH,Overall,80.0,79.91,1.535
+Uncalibrated SARIMAX-GARCH,Normal Workload,80.0,82.34,1.655
+Calibrated SARIMAX-GARCH,Normal Workload,80.0,79.95,1.54
+Uncalibrated SARIMAX-GARCH,High Workload,80.0,80.99,1.555
+Calibrated SARIMAX-GARCH,High Workload,80.0,79.58,1.49
+Uncalibrated SARIMAX-GARCH,Overall,95.0,94.9,3.011
+Calibrated SARIMAX-GARCH,Overall,95.0,94.9,3.047
+Uncalibrated SARIMAX-GARCH,Normal Workload,95.0,95.22,3.031
+Calibrated SARIMAX-GARCH,Normal Workload,95.0,94.97,2.991
+Uncalibrated SARIMAX-GARCH,High Workload,95.0,92.25,2.848
+Calibrated SARIMAX-GARCH,High Workload,95.0,94.37,3.511

@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+arch
+scikit-learn
+scipy
+ipykernel
+notebook
+
+python-docx

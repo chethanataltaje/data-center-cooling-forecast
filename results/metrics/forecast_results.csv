@@ -1,0 +1,16 @@
+Evaluation Scope,Model,MAE (kW),RMSE (kW),MASE
+"Overall Test Set (N=1,314)",Naive,2.5729,4.2137,0.5792
+"Overall Test Set (N=1,314)",SARIMA,0.721,1.2702,0.1623
+"Overall Test Set (N=1,314)",SARIMA-GARCH,0.721,1.2702,0.1623
+"Overall Test Set (N=1,314)",SARIMAX-GARCH (Uncalibrated),0.7441,1.2643,0.1675
+"Overall Test Set (N=1,314)",Calibrated SARIMAX-GARCH (Proposed),0.7441,1.2643,0.1675
+"Normal Workload (N=1,069)",Naive,2.7146,4.3059,0.6111
+"Normal Workload (N=1,069)",SARIMA,0.7522,1.3241,0.1693
+"Normal Workload (N=1,069)",SARIMA-GARCH,0.7522,1.3241,0.1693
+"Normal Workload (N=1,069)",SARIMAX-GARCH (Uncalibrated),0.7734,1.3163,0.1741
+"Normal Workload (N=1,069)",Calibrated SARIMAX-GARCH (Proposed),0.7734,1.3163,0.1741
+High Workload (N=245),Naive,1.9697,3.796,0.4434
+High Workload (N=245),SARIMA,0.5882,1.0092,0.1324
+High Workload (N=245),SARIMA-GARCH,0.5882,1.0092,0.1324
+High Workload (N=245),SARIMAX-GARCH (Uncalibrated),0.6195,1.0136,0.1395
+High Workload (N=245),Calibrated SARIMAX-GARCH (Proposed),0.6195,1.0136,0.1395

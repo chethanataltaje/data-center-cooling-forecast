@@ -1,0 +1,3 @@
+Regime,Observations,c_80 (80% Factor),c_95 (95% Factor),q_80_empirical,q_95_empirical,nominal_z_80,nominal_z_95
+Normal Workload,1172,0.9305,0.9868,0.9912,1.925,1.0652,1.9506
+High Workload,142,0.958,1.2328,1.0205,2.4047,1.0652,1.9506

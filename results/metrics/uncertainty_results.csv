@@ -1,0 +1,16 @@
+Evaluation Scope,Model,PICP 80% (%),MPIW 80% (kW),PICP 95% (%),MPIW 95% (kW)
+"Overall Test Set (N=1,314)",Naive,96.19,21.404,98.48,32.734
+"Overall Test Set (N=1,314)",SARIMA,96.35,6.105,99.24,11.188
+"Overall Test Set (N=1,314)",SARIMA-GARCH,74.28,1.965,91.25,3.6
+"Overall Test Set (N=1,314)",SARIMAX-GARCH (Uncalibrated),76.94,2.193,93.38,4.017
+"Overall Test Set (N=1,314)",Calibrated SARIMAX-GARCH (Proposed),75.57,2.051,93.61,4.129
+"Normal Workload (N=1,069)",Naive,96.05,21.404,98.59,32.734
+"Normal Workload (N=1,069)",SARIMA,96.15,6.105,99.06,11.188
+"Normal Workload (N=1,069)",SARIMA-GARCH,73.97,2.039,90.79,3.736
+"Normal Workload (N=1,069)",SARIMAX-GARCH (Uncalibrated),76.41,2.255,93.05,4.129
+"Normal Workload (N=1,069)",Calibrated SARIMAX-GARCH (Proposed),75.09,2.098,92.95,4.074
+High Workload (N=245),Naive,96.8,21.404,98.0,32.734
+High Workload (N=245),SARIMA,97.2,6.105,100.0,11.188
+High Workload (N=245),SARIMA-GARCH,75.6,1.649,93.2,3.022
+High Workload (N=245),SARIMAX-GARCH (Uncalibrated),79.2,1.933,94.8,3.54
+High Workload (N=245),Calibrated SARIMAX-GARCH (Proposed),77.6,1.852,96.4,4.364

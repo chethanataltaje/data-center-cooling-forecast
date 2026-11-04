@@ -1,0 +1,5 @@
+Model,Interval,Coverage (PICP %),Nominal (%),MPIW (kW)
+SARIMA (Constant Variance),80% PI,99.24,80.0,6.105
+SARIMA-GARCH (Time-Varying),80% PI,79.22,80.0,1.176
+SARIMA (Constant Variance),95% PI,99.77,95.0,11.188
+SARIMA-GARCH (Time-Varying),95% PI,91.55,95.0,2.155

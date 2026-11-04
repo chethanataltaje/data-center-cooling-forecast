@@ -1,0 +1,6 @@
+Model,SARIMA Order,p,d,q,P,D,Q,s,Rationale
+Candidate 1,"(1, 0, 1) x (1, 1, 1)_24",1,0,1,1,1,1,24,Seasonal difference (D=1) with AR(1) mean reversion and MA(1) noise filter
+Candidate 2,"(1, 1, 1) x (0, 1, 1)_24",1,1,1,0,1,1,24,"Standard Box-Jenkins airline-type specification with d=1, D=1, seasonal MA(1)"
+Candidate 3,"(2, 0, 1) x (1, 1, 0)_24",2,0,1,1,1,0,24,Higher-order non-seasonal AR(2) to capture 2-hour thermal inertia with seasonal AR(1)
+Candidate 4,"(2, 1, 1) x (1, 1, 1)_24",2,1,1,1,1,1,24,Rich specification capturing non-seasonal inertia and seasonal error adjustments
+Benchmark,Seasonal-Naive (s=24),0,0,0,0,0,0,24,Y_{t|t-24} = Y_{t-24} baseline benchmark
